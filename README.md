@@ -18,8 +18,9 @@ Identifying distinct customer segments enables businesses to tailor their produc
 - Segmenting customers based on spending habits, income, and other characteristics enables businesses to target their offerings more effectively.
 - By tailoring products, services, and marketing strategies to specific customer segments, businesses can enhance customer satisfaction and drive growth.
 
-## Connect with Us
-We are excited to continue exploring innovative approaches to data analysis and driving actionable insights! Let's connect and discuss how these insights can help your business thrive.
+## Connect with Me
+We are excited to continue exploring innovative approaches to data analysis and driving actionable insights! Let's connect and discuss how these insights can help businesses thrive.
+https://www.linkedin.com/in/kedhareswer-naidu/
 
 ## Tags
 #DataAnalysis #CustomerSegmentation #MarketingStrategy #PCA #AgglomerativeClustering #BusinessInsights
